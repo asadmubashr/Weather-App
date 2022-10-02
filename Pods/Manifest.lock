@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.2)
+  - ExytePopupView (1.1.6)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - ExytePopupView
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ExytePopupView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  ExytePopupView: da827797316240e93b67d7ca57b01bb693a28b01
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 1a1fdb12f84bcc974119029b7b07e5e12eabb09d
+
+COCOAPODS: 1.11.3
